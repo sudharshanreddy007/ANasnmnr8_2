@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="Name">
+        <item> Name1</item>
+        <item> Name2</item>
+        <item> Name3</item>
+        <item> Name4</item>
+        <item> Name5</item>
+        <item> Name6</item>
+        <item> Name7</item >
+        <item> Name 8</item>
+    </string-array>
+
+    <string-array name="PhoneNumber">
+        <item> PhoneNumber1</item>
+        <item> PhoneNumber2</item>
+        <item> PhoneNumber3</item>
+        <item> PhoneNumber4</item>
+        <item> PhoneNumber5</item>
+        <item> PhoneNumber6</item>
+        <item> PhoneNumber7</item >
+        <item> PhoneNumber8</item>
+    </string-array>
+</resources>
